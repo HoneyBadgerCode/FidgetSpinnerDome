@@ -1344,7 +1344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_RotationResistance: 3
-  m_SlideOffset: 8
+  m_SlideOffset: 2
   SpinnerTransform: {fileID: 1373031925}
   Curve:
     serializedVersion: 2
